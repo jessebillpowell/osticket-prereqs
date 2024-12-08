@@ -34,17 +34,30 @@ Internet Information Services (IIS) Web Server was installed to host application
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qfV8w2Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Installing PHP Manager for IIS file (PHPManagerForIIS_v1.5.0.MSI).
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hrGjOVs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ Installing MySQL 5.5.62, which is a database that osTicket uses to store all of its data in, such as user accounts, ticketing information, etc., on the backend.  
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/qfV8w2Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Installing PHP Manager for IIS file (PHPManagerForIIS_v1.5.0.MSI).
+</p>
+<br />
+
+
+
+
+
