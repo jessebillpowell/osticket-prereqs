@@ -50,12 +50,24 @@ Installing PHP Manager for IIS file (PHPManagerForIIS_v1.5.0.MSI).
 <br />
 
 <p>
-<img src="https://i.imgur.com/qfV8w2Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZTcbhmt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Installing PHP Manager for IIS file (PHPManagerForIIS_v1.5.0.MSI).
+Running IIS as an Administrator. This is to register PHP from within IIS. This is making the web server aware of the existence of PHP on the computer, so that the computer knows where it is located.  
 </p>
 <br />
+
+
+<p>
+<img src="https://i.imgur.com/k9sFQYE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+By opening up osTicket from IIS, by clicking on browse*.80(http) from the "manage folder" section of IIS, you can now open up osTicket, where you can do many solutions for help desk, IT solutions, and cybersecurity. The osTicket software uses PHP as a programming language and uses a MySQL database to store pertinent information.
+</p>
+<br />
+
+
+
 
 
 
